@@ -4,7 +4,7 @@
 
 - 🌱 After this I also Prepare for learning DSA in C++
 
-- 💬 Ask me anything related to my Repositories.
+- 💬 Ask me anything related to my Repositories on Issue Section or on my E-mail ID. 
 
 - 📫 My E-mail ID is **insecureaiyourr@gmail.com**
 
